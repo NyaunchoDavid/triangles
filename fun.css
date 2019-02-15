@@ -9,7 +9,7 @@ body{
   text-align:center;
   margin-left:auto;
   margin-right:auto;
-  margin-top:120px;
+  margin-top:25px;
   padding:90px 40px;
   border-radius:16px;
   box-shadow:0px 0px 20px 0px #000;
@@ -25,4 +25,10 @@ h5{
 #con:hover{
   background-color:#34495e;
   color:#e74c3c;
+}
+#sideOne, #sideTwo, #sideThree{
+  padding:12px;
+  color:red;
+  margin-bottom:6px;
+  background-color:aqua;
 }

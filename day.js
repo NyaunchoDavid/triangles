@@ -12,7 +12,7 @@ function see(){
     alert("scalene");
   }
   var tone = document.getElementById('he');
-  var none = tone.style.fontSize = "27px";
+  var none = tone.style.fontSize = "38px";
   var none = tone.style.color = "#c0392b";
   var pro = document.getElementById('moon');
   var mote = pro.style.backgroundColor = "#2c3e50";
