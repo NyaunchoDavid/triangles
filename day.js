@@ -13,4 +13,6 @@ function see(){
   }
   var tone = document.getElementById('he');
   var none = tone.style.fontSize = "24px";
+  var pro = document.getElementById('moon');
+  var mote = pro.style.backgroundColor = "#2c3e50";
 };
