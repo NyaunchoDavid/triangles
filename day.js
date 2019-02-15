@@ -24,4 +24,6 @@ else{
   var monday = mon.style.fontSize = "18px";
   var tue = document.getElementById('sideTwo');
   var tuesday = tue.style.fontSize = "18px";
+  var fri = document.getElementById("sideThree");
+  var friday = fri.style.fontSize = "18px";
 };
