@@ -8,9 +8,12 @@ function see(){
   else if (one===two || one===three || three===two) {
     alert("isosceles");
   }
-  else{
-    alert("scalene");
+  else if(one + two > three){
+    alert("scaline");
   }
+  else{
+    alert("not triangle");
+  };
   var pro = document.getElementById('moon');
   var mote = pro.style.backgroundColor = "#2c3e50";
 };
