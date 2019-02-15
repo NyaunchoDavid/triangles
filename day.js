@@ -22,4 +22,6 @@ else{
   var mote = pro.style.backgroundColor = "#2c3e50";
   var mon = document.getElementById("sideOne");
   var monday = mon.style.fontSize = "18px";
+  var tue = document.getElementById('sideTwo');
+  var tuesday = tue.style.fontSize = "18px";
 };
