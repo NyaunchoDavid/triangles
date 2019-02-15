@@ -20,4 +20,6 @@ else{
 }
   var pro = document.getElementById('moon');
   var mote = pro.style.backgroundColor = "#2c3e50";
+  var mon = document.getElementById("sideOne");
+  var monday = mon.style.fontSize = "18px";
 };
