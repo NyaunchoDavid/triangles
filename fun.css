@@ -17,6 +17,19 @@ body{
 h5{
   font-size:33px;
 }
+#he{
+  border:none;
+  width:150px;
+  height:150px;
+  border-radius:75px;
+  background-image:url("/home/david/Public/jav/swiss-triangles.gif");
+  overflow:;
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:cover;
+  margin-left:120px;
+  margin-top:-40px;
+}
 #con{
   padding:12px;
   margin-top:69px;
